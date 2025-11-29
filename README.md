@@ -9,7 +9,7 @@
 
 **A self-hosted meeting scheduler with Google Calendar integration and automatic Google Meet link generation.**
 
-[Live Demo](https://shekharh500.github.io/google-meet-scheduler-demo.github.io/) • [Report Bug](https://github.com/shekharh500/google-meet-scheduler-demo/issues) • [Request Feature](https://github.com/shekharh500/google-meet-scheduler-demo/issues)
+[Live Demo](https://shekharh500.github.io/google-meet-scheduler-demo/) • [Report Bug](https://github.com/shekharh500/google-meet-scheduler-demo/issues) • [Request Feature](https://github.com/shekharh500/google-meet-scheduler-demo/issues)
 
 ### ✨ Demo in Action
 
@@ -40,7 +40,7 @@
 ## 🎬 Quick Start
 
 ### ⚡ Try the Live Demo (No Setup Required)
-**[🚀 Click here to use the scheduler now!](https://shekharh500.github.io/google-meet-scheduler-demo.github.io/)**
+**[🚀 Click here to use the scheduler now!](https://shekharh500.github.io/google-meet-scheduler-demo/)**
 
 Or clone and open locally:
 ```bash
