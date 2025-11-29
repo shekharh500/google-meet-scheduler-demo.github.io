@@ -11,7 +11,11 @@
 
 [Live Demo](https://shekharh500.github.io/google-meet-scheduler-demo.github.io/) • [Report Bug](https://github.com/shekharh500/google-meet-scheduler-demo/issues) • [Request Feature](https://github.com/shekharh500/google-meet-scheduler-demo/issues)
 
-![Demo Screenshot](demo.png)
+### ✨ Demo in Action
+
+![Demo GIF](demo.gif)
+
+[📹 Watch Full Video Demo](demo.mp4)
 
 </div>
 
@@ -33,21 +37,28 @@
 
 ---
 
-## Quick Start
+## 🎬 Quick Start
 
-### Try the Demo (No Setup Required)
+### ⚡ Try the Live Demo (No Setup Required)
+**[🚀 Click here to use the scheduler now!](https://shekharh500.github.io/google-meet-scheduler-demo.github.io/)**
 
+Or clone and open locally:
 ```bash
-# Clone the repository
 git clone https://github.com/shekharh500/google-meet-scheduler-demo.git
-
-# Open the demo
 open index.html
 ```
 
-Or simply open `index.html` in your browser - it works immediately with mock data!
+### 📹 See It In Action
 
-**Demo OTP Code: `123456`**
+**GIF Demo:**
+![Demo Animation](demo.gif)
+
+**Full Video Demo:**
+https://github.com/shekharh500/google-meet-scheduler-demo/assets/demo.mp4
+
+**Demo Credentials:**
+- Test Email: Use any business email (not gmail, yahoo, etc.)
+- OTP Code: `123456`
 
 ---
 
